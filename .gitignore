@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+pyvenv.cfg
+bin/
+lib/
+lib64/
+include/
+.vscode/
+
+# Trained model files (large binaries)
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# # Dataset files
+# *.csv
+
+# # Output images and plots
+# *.png
+
+# Text output
+output.txt
+
+# Word/Office documents
+*.docx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Reports
+Reports
+Processed_CrackDataset
